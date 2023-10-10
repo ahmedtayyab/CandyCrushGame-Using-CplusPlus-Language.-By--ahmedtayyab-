@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Ahmad\Downloads\22F-8817_22F-3061_CandyCrushGame\22F-8817_22F-3061_CandyCrushGame\Project1\Project1\Header.h(97,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ahmad\Downloads\22F-8817_22F-3061_CandyCrushGame\22F-8817_22F-3061_CandyCrushGame\Project1\Project1\Header.h(230,7): warning C4101: 'Matches': unreferenced local variable
+C:\Users\Ahmad\Downloads\22F-8817_22F-3061_CandyCrushGame\22F-8817_22F-3061_CandyCrushGame\Project1\Project1\Header.h(518,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ahmad\Downloads\22F-8817_22F-3061_CandyCrushGame\22F-8817_22F-3061_CandyCrushGame\Project1\Project1\Source.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ahmad\Downloads\22F-8817_22F-3061_CandyCrushGame\22F-8817_22F-3061_CandyCrushGame\Project1\Project1\Source.cpp(14,33): warning C4101: 'Matches': unreferenced local variable
+  Project1.vcxproj -> C:\Users\Ahmad\Downloads\22F-8817_22F-3061_CandyCrushGame\22F-8817_22F-3061_CandyCrushGame\Project1\x64\Debug\Project1.exe
